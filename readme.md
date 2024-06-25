@@ -7,7 +7,7 @@ It employs a microservices architecture consisting of three components: React, F
 - The Flask microservice processes GitHub data, aggregates it, and forwards it to the LSTM microservice for forecasting.  
 - The LSTM microservice uses TensorFlow and Keras to predict issue trends based on historical data, generating visualizations that are stored on GCP and accessible via Flask.   
 
-This comprehensive system demonstrates end-to-end integration from data collection and processing to forecasting and visualization, 
+This comprehensive project demonstrates end-to-end integration from data collection and processing to forecasting and visualization, 
 showcasing practical applications of microservices, cloud deployment, and machine learning in real-world scenarios.  
 
 ## Purpose:
