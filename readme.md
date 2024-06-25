@@ -16,3 +16,16 @@ showcasing practical applications of microservices, cloud deployment, and machin
 - Achieved a 35% increase in forecasting accuracy for issue trends by implementing advanced LSTM models
 - Designed and deployed a three-tier microservices architecture (React, Flask, LSTM) integrated with Google Cloud Platform, 
 enabling real-time data processing, advanced forecasting using TensorFlow/Keras, and dynamic visualization of GitHub issue trends.
+
+
+Frontend: React  
+Backend: Flask  
+Machine Learning: TensorFlow, Keras  
+Cloud Platform: Google Cloud Platform (GCP)  
+Storage: Google Cloud Storage  
+Visualization: Highcharts, Matplotlib  
+Containerization: Docker  
+Programming Languages: Python, JavaScript  
+Version Control: GitHub  
+APIs: GitHub API  
+Deployment: Google Cloud Run  
